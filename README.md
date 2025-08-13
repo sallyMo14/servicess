@@ -1,16 +1,19 @@
-# servicess
+# Services App
 
-A new Flutter project.
+The project “services”  is a service exchange application built with Flutter framework,  connecting service-requesters “clients” with service providers. It helps clients to find talented and trusted service providers easily. On the other hand, it enables service providers to promote and sell their services worldwide. And, most importantly, this project will help build confidence and save the rights of both parties by providing contract templates, a secure payment gateway, a chat tool for effective communication, and service-management tools to ensure efficiency.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Technologies:
+* Dart
+* Flutter
+* State management: Bloc
+* Api integration
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Libraries : 
+*  file_picker
+*  flutter_bloc
+*  http
+* quatable
+*  dio
+*  shared_preferences
+*  get_it
